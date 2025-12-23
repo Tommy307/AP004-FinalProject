@@ -1,0 +1,306 @@
+[2025-12-12 07:19:47] Start training ...
+[2025-12-12 07:19:47] Epoch 1 use Teacher Forcing Ratio: 0.90
+[2025-12-12 07:20:34] Epoch 1: train loss = 3.5034
+[2025-12-12 07:20:34] Epoch 1: valid BLEU-4 = 9.73
+[2025-12-12 07:20:34] [Checkpoint] New best model saved with BLEU-4 = 9.73 to ./checkpoints/rnn_zh_en_best_100k_maxVocab1k_teaRatioDecay0-1.pt
+[2025-12-12 07:20:34] Epoch 2 use Teacher Forcing Ratio: 0.80
+[2025-12-12 07:21:19] Epoch 2: train loss = 2.9688
+[2025-12-12 07:21:19] Epoch 2: valid BLEU-4 = 12.09
+[2025-12-12 07:21:19] [Checkpoint] New best model saved with BLEU-4 = 12.09 to ./checkpoints/rnn_zh_en_best_100k_maxVocab1k_teaRatioDecay0-1.pt
+[2025-12-12 07:21:19] Epoch 3 use Teacher Forcing Ratio: 0.70
+[2025-12-12 07:22:02] Epoch 3: train loss = 2.9167
+[2025-12-12 07:22:03] Epoch 3: valid BLEU-4 = 13.96
+[2025-12-12 07:22:03] [Checkpoint] New best model saved with BLEU-4 = 13.96 to ./checkpoints/rnn_zh_en_best_100k_maxVocab1k_teaRatioDecay0-1.pt
+[2025-12-12 07:22:03] Epoch 4 use Teacher Forcing Ratio: 0.60
+[2025-12-12 07:22:47] Epoch 4: train loss = 2.9313
+[2025-12-12 07:22:47] Epoch 4: valid BLEU-4 = 12.92
+[2025-12-12 07:22:47] Epoch 5 use Teacher Forcing Ratio: 0.50
+[2025-12-12 07:23:31] Epoch 5: train loss = 2.9597
+[2025-12-12 07:23:32] Epoch 5: valid BLEU-4 = 12.28
+[2025-12-12 07:23:32] Epoch 6 use Teacher Forcing Ratio: 0.40
+[2025-12-12 07:24:18] Epoch 6: train loss = 3.0078
+[2025-12-12 07:24:18] Epoch 6: valid BLEU-4 = 13.46
+[2025-12-12 07:24:18] Epoch 7 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:25:04] Epoch 7: train loss = 3.0686
+[2025-12-12 07:25:05] Epoch 7: valid BLEU-4 = 9.10
+[2025-12-12 07:25:05] Epoch 8 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:25:49] Epoch 8: train loss = 3.0071
+[2025-12-12 07:25:50] Epoch 8: valid BLEU-4 = 12.50
+[2025-12-12 07:25:50] Epoch 9 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:26:33] Epoch 9: train loss = 2.9681
+[2025-12-12 07:26:33] Epoch 9: valid BLEU-4 = 12.71
+[2025-12-12 07:26:33] Epoch 10 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:27:16] Epoch 10: train loss = 2.9404
+[2025-12-12 07:27:16] Epoch 10: valid BLEU-4 = 13.47
+[2025-12-12 07:27:16] Epoch 11 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:28:00] Epoch 11: train loss = 2.8988
+[2025-12-12 07:28:00] Epoch 11: valid BLEU-4 = 11.43
+[2025-12-12 07:28:00] Epoch 12 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:28:43] Epoch 12: train loss = 2.8675
+[2025-12-12 07:28:43] Epoch 12: valid BLEU-4 = 11.65
+[2025-12-12 07:28:43] Epoch 13 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:29:28] Epoch 13: train loss = 2.8525
+[2025-12-12 07:29:29] Epoch 13: valid BLEU-4 = 11.82
+[2025-12-12 07:29:29] Epoch 14 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:30:14] Epoch 14: train loss = 2.8306
+[2025-12-12 07:30:14] Epoch 14: valid BLEU-4 = 15.02
+[2025-12-12 07:30:14] [Checkpoint] New best model saved with BLEU-4 = 15.02 to ./checkpoints/rnn_zh_en_best_100k_maxVocab1k_teaRatioDecay0-1.pt
+[2025-12-12 07:30:14] Epoch 15 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:30:58] Epoch 15: train loss = 2.8127
+[2025-12-12 07:30:59] Epoch 15: valid BLEU-4 = 11.19
+[2025-12-12 07:30:59] Epoch 16 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:31:41] Epoch 16: train loss = 2.7977
+[2025-12-12 07:31:41] Epoch 16: valid BLEU-4 = 13.30
+[2025-12-12 07:31:41] Epoch 17 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:32:24] Epoch 17: train loss = 2.7943
+[2025-12-12 07:32:24] Epoch 17: valid BLEU-4 = 14.09
+[2025-12-12 07:32:24] Epoch 18 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:33:07] Epoch 18: train loss = 2.7774
+[2025-12-12 07:33:07] Epoch 18: valid BLEU-4 = 14.58
+[2025-12-12 07:33:07] Epoch 19 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:33:52] Epoch 19: train loss = 2.7675
+[2025-12-12 07:33:52] Epoch 19: valid BLEU-4 = 14.28
+[2025-12-12 07:33:52] Epoch 20 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:34:35] Epoch 20: train loss = 2.7778
+[2025-12-12 07:34:35] Epoch 20: valid BLEU-4 = 15.80
+[2025-12-12 07:34:35] [Checkpoint] New best model saved with BLEU-4 = 15.80 to ./checkpoints/rnn_zh_en_best_100k_maxVocab1k_teaRatioDecay0-1.pt
+[2025-12-12 07:34:35] Epoch 21 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:35:20] Epoch 21: train loss = 2.7860
+[2025-12-12 07:35:20] Epoch 21: valid BLEU-4 = 14.87
+[2025-12-12 07:35:20] Epoch 22 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:36:04] Epoch 22: train loss = 2.7719
+[2025-12-12 07:36:04] Epoch 22: valid BLEU-4 = 11.80
+[2025-12-12 07:36:04] Epoch 23 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:36:46] Epoch 23: train loss = 2.7692
+[2025-12-12 07:36:47] Epoch 23: valid BLEU-4 = 14.80
+[2025-12-12 07:36:47] Epoch 24 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:37:30] Epoch 24: train loss = 2.7733
+[2025-12-12 07:37:30] Epoch 24: valid BLEU-4 = 13.11
+[2025-12-12 07:37:30] Epoch 25 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:38:13] Epoch 25: train loss = 2.7797
+[2025-12-12 07:38:13] Epoch 25: valid BLEU-4 = 15.54
+[2025-12-12 07:38:13] Epoch 26 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:38:56] Epoch 26: train loss = 2.7863
+[2025-12-12 07:38:57] Epoch 26: valid BLEU-4 = 12.03
+[2025-12-12 07:38:57] Epoch 27 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:39:41] Epoch 27: train loss = 2.7839
+[2025-12-12 07:39:41] Epoch 27: valid BLEU-4 = 11.30
+[2025-12-12 07:39:41] Epoch 28 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:40:25] Epoch 28: train loss = 2.7881
+[2025-12-12 07:40:25] Epoch 28: valid BLEU-4 = 12.78
+[2025-12-12 07:40:25] Epoch 29 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:41:09] Epoch 29: train loss = 2.7980
+[2025-12-12 07:41:09] Epoch 29: valid BLEU-4 = 13.83
+[2025-12-12 07:41:09] Epoch 30 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:41:54] Epoch 30: train loss = 2.8072
+[2025-12-12 07:41:54] Epoch 30: valid BLEU-4 = 11.93
+[2025-12-12 07:41:54] Epoch 31 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:42:37] Epoch 31: train loss = 2.8313
+[2025-12-12 07:42:38] Epoch 31: valid BLEU-4 = 11.63
+[2025-12-12 07:42:38] Epoch 32 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:43:20] Epoch 32: train loss = 2.8358
+[2025-12-12 07:43:20] Epoch 32: valid BLEU-4 = 14.77
+[2025-12-12 07:43:20] Epoch 33 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:44:03] Epoch 33: train loss = 2.8542
+[2025-12-12 07:44:03] Epoch 33: valid BLEU-4 = 14.17
+[2025-12-12 07:44:03] Epoch 34 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:44:46] Epoch 34: train loss = 2.8688
+[2025-12-12 07:44:47] Epoch 34: valid BLEU-4 = 12.83
+[2025-12-12 07:44:47] Epoch 35 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:45:32] Epoch 35: train loss = 2.8808
+[2025-12-12 07:45:32] Epoch 35: valid BLEU-4 = 12.20
+[2025-12-12 07:45:32] Epoch 36 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:46:16] Epoch 36: train loss = 2.8982
+[2025-12-12 07:46:16] Epoch 36: valid BLEU-4 = 11.09
+[2025-12-12 07:46:16] Epoch 37 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:47:00] Epoch 37: train loss = 2.9179
+[2025-12-12 07:47:00] Epoch 37: valid BLEU-4 = 12.51
+[2025-12-12 07:47:00] Epoch 38 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:47:42] Epoch 38: train loss = 2.9325
+[2025-12-12 07:47:43] Epoch 38: valid BLEU-4 = 12.46
+[2025-12-12 07:47:43] Epoch 39 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:48:25] Epoch 39: train loss = 2.9484
+[2025-12-12 07:48:25] Epoch 39: valid BLEU-4 = 11.38
+[2025-12-12 07:48:25] Epoch 40 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:49:08] Epoch 40: train loss = 2.9657
+[2025-12-12 07:49:09] Epoch 40: valid BLEU-4 = 13.42
+[2025-12-12 07:49:09] Epoch 41 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:49:52] Epoch 41: train loss = 2.9933
+[2025-12-12 07:49:53] Epoch 41: valid BLEU-4 = 10.40
+[2025-12-12 07:49:53] Epoch 42 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:50:37] Epoch 42: train loss = 3.0147
+[2025-12-12 07:50:37] Epoch 42: valid BLEU-4 = 11.83
+[2025-12-12 07:50:37] Epoch 43 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:51:22] Epoch 43: train loss = 3.0430
+[2025-12-12 07:51:22] Epoch 43: valid BLEU-4 = 11.73
+[2025-12-12 07:51:22] Epoch 44 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:52:06] Epoch 44: train loss = 3.0705
+[2025-12-12 07:52:06] Epoch 44: valid BLEU-4 = 13.11
+[2025-12-12 07:52:06] Epoch 45 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:52:49] Epoch 45: train loss = 3.0959
+[2025-12-12 07:52:49] Epoch 45: valid BLEU-4 = 13.33
+[2025-12-12 07:52:49] Epoch 46 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:53:32] Epoch 46: train loss = 3.1199
+[2025-12-12 07:53:32] Epoch 46: valid BLEU-4 = 9.27
+[2025-12-12 07:53:32] Epoch 47 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:54:16] Epoch 47: train loss = 3.1444
+[2025-12-12 07:54:16] Epoch 47: valid BLEU-4 = 9.59
+[2025-12-12 07:54:16] Epoch 48 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:55:00] Epoch 48: train loss = 3.1588
+[2025-12-12 07:55:00] Epoch 48: valid BLEU-4 = 10.19
+[2025-12-12 07:55:00] Epoch 49 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:55:43] Epoch 49: train loss = 3.2007
+[2025-12-12 07:55:43] Epoch 49: valid BLEU-4 = 11.31
+[2025-12-12 07:55:43] Epoch 50 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:56:26] Epoch 50: train loss = 3.2345
+[2025-12-12 07:56:26] Epoch 50: valid BLEU-4 = 10.59
+[2025-12-12 07:56:26] Epoch 51 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:57:08] Epoch 51: train loss = 3.2613
+[2025-12-12 07:57:08] Epoch 51: valid BLEU-4 = 10.85
+[2025-12-12 07:57:08] Epoch 52 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:57:50] Epoch 52: train loss = 3.2963
+[2025-12-12 07:57:51] Epoch 52: valid BLEU-4 = 7.90
+[2025-12-12 07:57:51] Epoch 53 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:58:33] Epoch 53: train loss = 3.3146
+[2025-12-12 07:58:34] Epoch 53: valid BLEU-4 = 7.60
+[2025-12-12 07:58:34] Epoch 54 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:59:16] Epoch 54: train loss = 3.3597
+[2025-12-12 07:59:16] Epoch 54: valid BLEU-4 = 6.94
+[2025-12-12 07:59:16] Epoch 55 use Teacher Forcing Ratio: 0.30
+[2025-12-12 07:59:58] Epoch 55: train loss = 3.3851
+[2025-12-12 07:59:59] Epoch 55: valid BLEU-4 = 7.90
+[2025-12-12 07:59:59] Epoch 56 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:00:41] Epoch 56: train loss = 3.4000
+[2025-12-12 08:00:42] Epoch 56: valid BLEU-4 = 7.26
+[2025-12-12 08:00:42] Epoch 57 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:01:24] Epoch 57: train loss = 3.4254
+[2025-12-12 08:01:24] Epoch 57: valid BLEU-4 = 6.59
+[2025-12-12 08:01:24] Epoch 58 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:02:06] Epoch 58: train loss = 3.4559
+[2025-12-12 08:02:07] Epoch 58: valid BLEU-4 = 6.89
+[2025-12-12 08:02:07] Epoch 59 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:02:49] Epoch 59: train loss = 3.4983
+[2025-12-12 08:02:49] Epoch 59: valid BLEU-4 = 6.34
+[2025-12-12 08:02:49] Epoch 60 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:03:32] Epoch 60: train loss = 3.5380
+[2025-12-12 08:03:32] Epoch 60: valid BLEU-4 = 7.13
+[2025-12-12 08:03:32] Epoch 61 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:04:14] Epoch 61: train loss = 3.5915
+[2025-12-12 08:04:15] Epoch 61: valid BLEU-4 = 7.48
+[2025-12-12 08:04:15] Epoch 62 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:04:57] Epoch 62: train loss = 3.6946
+[2025-12-12 08:04:57] Epoch 62: valid BLEU-4 = 4.47
+[2025-12-12 08:04:57] Epoch 63 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:05:40] Epoch 63: train loss = 3.7447
+[2025-12-12 08:05:40] Epoch 63: valid BLEU-4 = 4.28
+[2025-12-12 08:05:40] Epoch 64 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:06:22] Epoch 64: train loss = 3.8103
+[2025-12-12 08:06:23] Epoch 64: valid BLEU-4 = 4.31
+[2025-12-12 08:06:23] Epoch 65 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:07:05] Epoch 65: train loss = 3.8433
+[2025-12-12 08:07:06] Epoch 65: valid BLEU-4 = 4.45
+[2025-12-12 08:07:06] Epoch 66 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:07:48] Epoch 66: train loss = 3.8330
+[2025-12-12 08:07:49] Epoch 66: valid BLEU-4 = 5.18
+[2025-12-12 08:07:49] Epoch 67 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:08:31] Epoch 67: train loss = 3.8527
+[2025-12-12 08:08:31] Epoch 67: valid BLEU-4 = 3.84
+[2025-12-12 08:08:31] Epoch 68 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:09:13] Epoch 68: train loss = 3.8641
+[2025-12-12 08:09:14] Epoch 68: valid BLEU-4 = 3.98
+[2025-12-12 08:09:14] Epoch 69 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:09:56] Epoch 69: train loss = 3.8631
+[2025-12-12 08:09:57] Epoch 69: valid BLEU-4 = 4.03
+[2025-12-12 08:09:57] Epoch 70 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:10:39] Epoch 70: train loss = 3.8448
+[2025-12-12 08:10:39] Epoch 70: valid BLEU-4 = 3.77
+[2025-12-12 08:10:39] Epoch 71 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:11:21] Epoch 71: train loss = 3.8757
+[2025-12-12 08:11:21] Epoch 71: valid BLEU-4 = 8.54
+[2025-12-12 08:11:21] Epoch 72 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:12:03] Epoch 72: train loss = 3.8565
+[2025-12-12 08:12:04] Epoch 72: valid BLEU-4 = 4.45
+[2025-12-12 08:12:04] Epoch 73 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:12:46] Epoch 73: train loss = 3.8538
+[2025-12-12 08:12:46] Epoch 73: valid BLEU-4 = 4.27
+[2025-12-12 08:12:46] Epoch 74 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:13:28] Epoch 74: train loss = 3.9035
+[2025-12-12 08:13:29] Epoch 74: valid BLEU-4 = 3.57
+[2025-12-12 08:13:29] Epoch 75 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:14:11] Epoch 75: train loss = 3.9663
+[2025-12-12 08:14:11] Epoch 75: valid BLEU-4 = 4.72
+[2025-12-12 08:14:11] Epoch 76 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:14:54] Epoch 76: train loss = 3.9375
+[2025-12-12 08:14:54] Epoch 76: valid BLEU-4 = 4.26
+[2025-12-12 08:14:54] Epoch 77 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:15:36] Epoch 77: train loss = 4.0021
+[2025-12-12 08:15:36] Epoch 77: valid BLEU-4 = 4.14
+[2025-12-12 08:15:36] Epoch 78 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:16:19] Epoch 78: train loss = 4.0027
+[2025-12-12 08:16:19] Epoch 78: valid BLEU-4 = 3.89
+[2025-12-12 08:16:19] Epoch 79 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:17:02] Epoch 79: train loss = 3.9463
+[2025-12-12 08:17:02] Epoch 79: valid BLEU-4 = 3.74
+[2025-12-12 08:17:02] Epoch 80 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:17:44] Epoch 80: train loss = 3.9682
+[2025-12-12 08:17:45] Epoch 80: valid BLEU-4 = 3.93
+[2025-12-12 08:17:45] Epoch 81 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:18:27] Epoch 81: train loss = 4.0279
+[2025-12-12 08:18:27] Epoch 81: valid BLEU-4 = 3.18
+[2025-12-12 08:18:27] Epoch 82 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:19:09] Epoch 82: train loss = 4.0544
+[2025-12-12 08:19:10] Epoch 82: valid BLEU-4 = 3.86
+[2025-12-12 08:19:10] Epoch 83 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:19:52] Epoch 83: train loss = 3.9909
+[2025-12-12 08:19:52] Epoch 83: valid BLEU-4 = 2.21
+[2025-12-12 08:19:52] Epoch 84 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:20:34] Epoch 84: train loss = 3.9863
+[2025-12-12 08:20:34] Epoch 84: valid BLEU-4 = 3.55
+[2025-12-12 08:20:34] Epoch 85 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:21:16] Epoch 85: train loss = 3.9619
+[2025-12-12 08:21:17] Epoch 85: valid BLEU-4 = 4.12
+[2025-12-12 08:21:17] Epoch 86 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:21:58] Epoch 86: train loss = 3.9446
+[2025-12-12 08:21:59] Epoch 86: valid BLEU-4 = 3.71
+[2025-12-12 08:21:59] Epoch 87 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:22:40] Epoch 87: train loss = 3.9660
+[2025-12-12 08:22:41] Epoch 87: valid BLEU-4 = 3.79
+[2025-12-12 08:22:41] Epoch 88 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:23:22] Epoch 88: train loss = 3.9434
+[2025-12-12 08:23:23] Epoch 88: valid BLEU-4 = 3.69
+[2025-12-12 08:23:23] Epoch 89 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:24:05] Epoch 89: train loss = 3.9498
+[2025-12-12 08:24:05] Epoch 89: valid BLEU-4 = 3.70
+[2025-12-12 08:24:05] Epoch 90 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:24:46] Epoch 90: train loss = 3.9213
+[2025-12-12 08:24:47] Epoch 90: valid BLEU-4 = 4.21
+[2025-12-12 08:24:47] Epoch 91 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:25:28] Epoch 91: train loss = 3.8989
+[2025-12-12 08:25:29] Epoch 91: valid BLEU-4 = 3.62
+[2025-12-12 08:25:29] Epoch 92 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:26:11] Epoch 92: train loss = 3.8947
+[2025-12-12 08:26:11] Epoch 92: valid BLEU-4 = 3.95
+[2025-12-12 08:26:11] Epoch 93 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:26:53] Epoch 93: train loss = 3.9125
+[2025-12-12 08:26:53] Epoch 93: valid BLEU-4 = 3.50
+[2025-12-12 08:26:53] Epoch 94 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:27:35] Epoch 94: train loss = 3.8935
+[2025-12-12 08:27:35] Epoch 94: valid BLEU-4 = 4.21
+[2025-12-12 08:27:35] Epoch 95 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:28:17] Epoch 95: train loss = 3.8909
+[2025-12-12 08:28:18] Epoch 95: valid BLEU-4 = 3.61
+[2025-12-12 08:28:18] Epoch 96 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:28:59] Epoch 96: train loss = 3.8878
+[2025-12-12 08:29:00] Epoch 96: valid BLEU-4 = 3.75
+[2025-12-12 08:29:00] Epoch 97 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:29:41] Epoch 97: train loss = 3.9255
+[2025-12-12 08:29:42] Epoch 97: valid BLEU-4 = 4.07
+[2025-12-12 08:29:42] Epoch 98 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:30:24] Epoch 98: train loss = 3.9157
+[2025-12-12 08:30:24] Epoch 98: valid BLEU-4 = 4.16
+[2025-12-12 08:30:24] Epoch 99 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:31:06] Epoch 99: train loss = 3.9058
+[2025-12-12 08:31:06] Epoch 99: valid BLEU-4 = 4.68
+[2025-12-12 08:31:06] Epoch 100 use Teacher Forcing Ratio: 0.30
+[2025-12-12 08:31:48] Epoch 100: train loss = 3.8785
+[2025-12-12 08:31:48] Epoch 100: valid BLEU-4 = 4.49

@@ -1,0 +1,11 @@
+[2025-12-22 09:07:56] [Epoch 1] train loss = 3.5502
+[2025-12-22 09:08:05] [Epoch 1] valid BLEU-4 = 9.46
+[2025-12-22 09:08:05] [Checkpoint] Saved best model (BLEU=9.46) to ./checkpoints/rnn_zh_en_best_100k_min-freq5.pt
+[2025-12-22 09:10:17] [Epoch 2] train loss = 2.9921
+[2025-12-22 09:10:25] [Epoch 2] valid BLEU-4 = 11.43
+[2025-12-22 09:10:25] [Checkpoint] Saved best model (BLEU=11.43) to ./checkpoints/rnn_zh_en_best_100k_min-freq5.pt
+[2025-12-22 09:12:36] [Epoch 3] train loss = 2.7715
+[2025-12-22 09:12:43] [Epoch 3] valid BLEU-4 = 15.79
+[2025-12-22 09:12:43] [Checkpoint] Saved best model (BLEU=15.79) to ./checkpoints/rnn_zh_en_best_100k_min-freq5.pt
+[2025-12-22 09:14:54] [Epoch 4] train loss = 2.6352
+[2025-12-22 09:15:03] [Epoch 4] valid BLEU-4 = 8.63

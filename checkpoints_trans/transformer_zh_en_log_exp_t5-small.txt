@@ -1,0 +1,23 @@
+[2025-12-23 02:51:26] === Fine-tuning T5 (zh->en) ===
+[2025-12-23 02:51:26] Loading tokenizer & model ...
+[2025-12-23 02:52:30] [Epoch 1] T5 train loss = 4.0420
+[2025-12-23 02:52:33] [Epoch 1] T5 valid BLEU-4 = 0.43
+[2025-12-23 02:52:33] [Checkpoint] Saved best T5 model (BLEU=0.43) to ./checkpoints_trans/transformer_zh_en_best_exp_t5-small.pt
+[2025-12-23 02:53:34] [Epoch 2] T5 train loss = 3.8175
+[2025-12-23 02:53:37] [Epoch 2] T5 valid BLEU-4 = 0.33
+[2025-12-23 02:54:38] [Epoch 3] T5 train loss = 3.7333
+[2025-12-23 02:54:41] [Epoch 3] T5 valid BLEU-4 = 0.38
+[2025-12-23 02:55:42] [Epoch 4] T5 train loss = 3.6740
+[2025-12-23 02:55:45] [Epoch 4] T5 valid BLEU-4 = 0.25
+[2025-12-23 02:56:45] [Epoch 5] T5 train loss = 3.6332
+[2025-12-23 02:56:47] [Epoch 5] T5 valid BLEU-4 = 0.13
+[2025-12-23 02:57:48] [Epoch 6] T5 train loss = 3.5994
+[2025-12-23 02:57:50] [Epoch 6] T5 valid BLEU-4 = 0.13
+[2025-12-23 02:58:50] [Epoch 7] T5 train loss = 3.5722
+[2025-12-23 02:58:53] [Epoch 7] T5 valid BLEU-4 = 0.14
+[2025-12-23 02:59:53] [Epoch 8] T5 train loss = 3.5487
+[2025-12-23 02:59:56] [Epoch 8] T5 valid BLEU-4 = 0.14
+[2025-12-23 03:00:56] [Epoch 9] T5 train loss = 3.5284
+[2025-12-23 03:00:58] [Epoch 9] T5 valid BLEU-4 = 0.15
+[2025-12-23 03:01:59] [Epoch 10] T5 train loss = 3.5106
+[2025-12-23 03:02:01] [Epoch 10] T5 valid BLEU-4 = 0.15
