@@ -22,8 +22,8 @@ The goal is to analyze their architectural differences, training efficiency, tra
 
 The dataset consists of four JSONL files: a small training set, a large training set, a validation set, and a test set. Each line in the files contains a parallel Chinese–English sentence pair.
 
-| Split        | Size |
-|-------------|------|
+| Split       | Size |
+| ----------- | ---- |
 | Small Train | 10k  |
 | Large Train | 100k |
 | Validation  | 500  |
@@ -170,20 +170,21 @@ In order to balance the bleu and output quality, we choose **min_freq at 20**.
 We investigate the impact of architectural choices, including:
 
 - **Position Embedding**:
+
   - Absolute positional encoding
   - Relative positional encoding
-  
+
   |                              | Best-Epoch | Val BLEU-4 | Test BLEU-4 |
   | ---------------------------- | ---------- | ---------- | ----------- |
   | Absolute positional encoding | 48         | 7.58       | 7.18        |
   | Relative positional encoding | 46         | 11.42      | 10.00       |
-  
+
 - **Normalization Method**:
-  
+
   - In this experiment, we use relative positional encoding!
   - Layer Normalization
   - RMS Normalization
-  
+
   |                     | Best-Epoch | Val BLEU-4 | Test BLEU-4 |
   | ------------------- | ---------- | ---------- | ----------- |
   | Layer Normalization | 46         | 11.42      | 10.00       |
@@ -247,8 +248,9 @@ A pretrained sequence-to-sequence language model (e.g., T5) is fine-tuned on the
 
 |                       | Val BLEU-4 | Test BLEU-4 |
 | --------------------- | ---------- | ----------- |
-| From scratch          |            |             |
-| Fine-tune on T5-small |            |             |
+| Fine-tune on T5-small | 0.48       |             |
+
+The code of fine-tuning needs trouble-shooting.
 
 ---
 
